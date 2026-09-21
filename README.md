@@ -5,6 +5,8 @@ A simple web tool to fetch Dailymotion channel follower counts and video view st
 
 <p align="center">
 
+https://dailymotionstats.netlify.app/
+
 A simple and modern web tool for fetching  
 📈 **Dailymotion Channel Followers** and 👁️ **Video Views**.
 
